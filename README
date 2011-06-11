@@ -1,0 +1,7 @@
+Several ejabberd-modules for me
+
+= How to build =
+ 1. Download ejabberd-modules. (Google it if you don't know how to get.)
+ 2. Put o_ejabberd_modules in ejabberd-modules directory.
+ 3. Build each modules you need.
+
